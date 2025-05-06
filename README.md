@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <p>An installer framework and drop-in replacement for and rewrite of Jade in Python that uses the live session's file system instead of bootstrapping a new one, built for blendOS.</p>
+    <p>An installer framework and drop-in replacement for and rewrite of Jade in Python that uses the live session's file system instead of bootstrapping a new one. Built for clOs, forked from blendOS.</p>
 </div>
 
 **Help us with making blend-inst distribution-independent by opening a pull request!**
